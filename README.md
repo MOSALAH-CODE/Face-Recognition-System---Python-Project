@@ -36,10 +36,6 @@ The Advanced Face Recognition System is a powerful and accurate solution develop
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - The dlib library: [https://github.com/davisking/dlib](https://github.com/davisking/dlib)
