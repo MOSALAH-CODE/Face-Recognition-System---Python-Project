@@ -12,9 +12,17 @@ The Advanced Face Recognition System is a powerful and accurate solution develop
 - Visualizations of facial landmarks for enhanced user experience.
 - Ability to redefine registered faces for profile updates.
 
-![Face Recognition](images/Picture1.png)
-![Define Face](images/Picture2.png)
-![Recognize Faces](images/Picture3.png)
+<p align="center">
+  <img src="images/Picture1.png" alt="" width="400" />
+</p>
+
+<p align="center">
+  <img src="images/Picture2.png" alt="" width="400" />
+</p>
+
+<p align="center">
+  <img src="images/Picture3.png" alt="" width="400" />
+</p>
 
 <p align="center">
   <img src="images/Picture5.png" alt="" width="400" />
