@@ -2,8 +2,6 @@
 
 The Advanced Face Recognition System is a powerful and accurate solution developed using deep learning and dlib's advanced technology. It offers seamless face detection, recognition, and facial feature analysis capabilities. This project showcases the potential of face recognition technology in various applications, from identity verification to personalized experiences.
 
-![Face Recognition](images/Picture1.png)
-
 ## Features
 
 - Accurate face detection using dlib's pretrained models.
@@ -14,7 +12,13 @@ The Advanced Face Recognition System is a powerful and accurate solution develop
 - Visualizations of facial landmarks for enhanced user experience.
 - Ability to redefine registered faces for profile updates.
 
-![Face Detection](images/Picture2.png)
+![Face Recognition](images/Picture1.png)
+![Define Face](images/Picture2.png)
+![Recognize Faces](images/Picture3.png)
+<p align="center">
+  <img src="images/Picture4.png" alt="" width="400" />
+  <img src="images/Picture5.png" alt="" width="400" />
+</p>
 
 ## Requirements
 
@@ -23,7 +27,6 @@ The Advanced Face Recognition System is a powerful and accurate solution develop
 - face_recognition library
 - Webcam or image input source
 
-![Facial Landmark Detection](images/Picture3.png)
 
 ## Installation
 
@@ -31,16 +34,12 @@ The Advanced Face Recognition System is a powerful and accurate solution develop
 2. Install the required libraries.
 3. Run the application: `python main.py`
 
-![Real-time Recognition](images/Picture4.png)
-
 ## Usage
 
 1. Launch the application and ensure your webcam is connected.
 2. Register your face by providing your name and capturing your facial image.
 3. To log in, simply present your face to the camera and let the system recognize you.
 4. Explore the different features, such as face detection, facial landmark detection, and face recognition.
-
-![Facial Landmark Visualization](images/Picture5.png)
 
 ## Contributing
 
