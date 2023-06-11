@@ -39,7 +39,7 @@ The Advanced Face Recognition System is a powerful and accurate solution develop
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/face-recognition.git`
+1. Clone the repository: `https://github.com/MOSALAH-CODE/Face-Recognition-System---Python-Project.git`
 2. Install the required libraries.
 3. Run the application: `python main.py`
 
