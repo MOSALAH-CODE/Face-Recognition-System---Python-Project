@@ -15,9 +15,10 @@ The Advanced Face Recognition System is a powerful and accurate solution develop
 ![Face Recognition](images/Picture1.png)
 ![Define Face](images/Picture2.png)
 ![Recognize Faces](images/Picture3.png)
+
 <p align="center">
-  <img src="images/Picture4.png" alt="" width="400" />
   <img src="images/Picture5.png" alt="" width="400" />
+  <img src="images/Picture4.png" alt="" width="400" />
 </p>
 
 ## Requirements
